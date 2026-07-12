@@ -1,0 +1,42 @@
+{
+  "updated": "2026-07-02",
+  "focusWords": {
+    "extract": {
+      "day": 4,
+      "bigDay": 7,
+      "reason": "记成额外",
+      "since": "2026-06-08"
+    },
+    "exaggerate": {
+      "day": 4,
+      "bigDay": 2,
+      "reason": "记成形容词",
+      "since": "2026-06-08"
+    },
+    "forge": {
+      "day": 6,
+      "bigDay": 2,
+      "reason": "只答锻造，漏建立",
+      "since": "2026-06-16"
+    },
+    "manifest": {
+      "day": 6,
+      "bigDay": 2,
+      "reason": "完全不会",
+      "since": "2026-06-16"
+    },
+    "appliance": {
+      "day": 5,
+      "bigDay": 1,
+      "reason": "记错",
+      "since": "2026-06-10"
+    },
+    "dispose": {
+      "day": 3,
+      "bigDay": 1,
+      "reason": "不会",
+      "since": "2026-06-07"
+    }
+  },
+  "studyLog": []
+}

@@ -1,0 +1,283 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>11408 考研笔记</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --sidebar-w: 280px;
+  --accent: #2563eb;
+  --accent-light: #eff6ff;
+  --bg: #f8f9fb;
+  --surface: #fff;
+  --text: #1e293b;
+  --text-muted: #64748b;
+  --border: #e2e8f0;
+  --hover: #f1f5f9;
+  --radius: 6px;
+}
+html, body { height: 100%; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", sans-serif; font-size: 15px; color: var(--text); background: var(--bg); }
+body { display: flex; }
+
+/* Sidebar */
+#sidebar {
+  width: var(--sidebar-w); min-width: var(--sidebar-w);
+  background: var(--surface); border-right: 1px solid var(--border);
+  display: flex; flex-direction: column; height: 100vh; overflow: hidden;
+}
+#sidebar-header { padding: 16px; border-bottom: 1px solid var(--border); }
+#sidebar-header h1 { font-size: 16px; font-weight: 600; color: var(--text); letter-spacing: -0.01em; }
+#sidebar-header .sub { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+/* Search */
+#search-wrap { position: relative; padding: 12px 16px; border-bottom: 1px solid var(--border); }
+#search-input {
+  width: 100%; padding: 8px 12px 8px 32px; border: 1px solid var(--border); border-radius: var(--radius);
+  font-size: 13px; outline: none; background: var(--bg); color: var(--text);
+}
+#search-input:focus { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-light); }
+#search-wrap::before { content: "\1F50D"; position: absolute; left: 24px; top: 20px; font-size: 12px; color: var(--text-muted); }
+#search-results {
+  display: none; position: absolute; top: 100%; left: 16px; right: 16px;
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  box-shadow: 0 4px 16px rgba(0,0,0,.08); max-height: 320px; overflow-y: auto; z-index: 10;
+}
+#search-results.active { display: block; }
+.search-item { padding: 10px 12px; cursor: pointer; border-bottom: 1px solid var(--border); font-size: 13px; }
+.search-item:last-child { border-bottom: none; }
+.search-item:hover { background: var(--hover); }
+.search-item .title { font-weight: 500; color: var(--text); }
+.search-item .path { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+.search-item .snippet { font-size: 11px; color: var(--text-muted); margin-top: 2px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.search-item mark { background: #fef08a; color: inherit; padding: 0 1px; border-radius: 2px; }
+#search-empty { padding: 16px; text-align: center; color: var(--text-muted); font-size: 13px; }
+
+/* Tree */
+#tree { flex: 1; overflow-y: auto; padding: 8px 0; }
+.subject-group { margin-bottom: 2px; }
+.subject-label {
+  display: flex; align-items: center; gap: 6px; padding: 8px 16px;
+  font-size: 13px; font-weight: 600; color: var(--text); cursor: pointer; user-select: none;
+}
+.subject-label:hover { background: var(--hover); }
+.subject-label .arrow { font-size: 10px; color: var(--text-muted); transition: transform .15s; display: inline-block; width: 12px; }
+.subject-label.open .arrow { transform: rotate(90deg); }
+.chapter-list { display: none; }
+.chapter-list.open { display: block; }
+.chapter-label {
+  display: flex; align-items: center; gap: 6px; padding: 6px 16px 6px 36px;
+  font-size: 12px; font-weight: 500; color: var(--text-muted); cursor: pointer; user-select: none;
+}
+.chapter-label:hover { background: var(--hover); color: var(--text); }
+.chapter-label .arrow { font-size: 10px; transition: transform .15s; display: inline-block; width: 12px; }
+.chapter-label.open .arrow { transform: rotate(90deg); }
+.note-list { display: none; }
+.note-list.open { display: block; }
+.note-item { display: block; padding: 5px 16px 5px 54px; font-size: 12px; color: var(--text-muted); cursor: pointer; text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.note-item:hover { background: var(--hover); color: var(--text); }
+.note-item.active { background: var(--accent-light); color: var(--accent); font-weight: 500; }
+
+/* Main */
+#main { flex: 1; height: 100vh; overflow-y: auto; padding: 40px 48px; }
+#main .content { max-width: 780px; margin: 0 auto; }
+#main .content h1 { font-size: 26px; font-weight: 700; margin-bottom: 16px; color: var(--text); letter-spacing: -0.02em; }
+#main .content h2 { font-size: 18px; font-weight: 600; margin-top: 32px; margin-bottom: 12px; color: var(--text); }
+#main .content h3 { font-size: 15px; font-weight: 600; margin-top: 24px; margin-bottom: 8px; color: var(--text); }
+#main .content p { line-height: 1.75; margin-bottom: 12px; }
+#main .content ul, #main .content ol { margin-bottom: 12px; padding-left: 24px; }
+#main .content li { line-height: 1.75; margin-bottom: 4px; }
+#main .content table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+#main .content th, #main .content td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+#main .content th { background: var(--bg); font-weight: 600; }
+#main .content blockquote { border-left: 3px solid var(--accent); padding: 8px 16px; margin: 16px 0; background: var(--accent-light); border-radius: 0 var(--radius) var(--radius) 0; color: var(--text); font-size: 14px; }
+#main .content blockquote p { margin-bottom: 4px; }
+#main .content hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+#main .content code { background: var(--bg); padding: 2px 6px; border-radius: 4px; font-size: 13px; font-family: "JetBrains Mono", "Fira Code", monospace; }
+#main .content pre { background: #1e293b; color: #e2e8f0; padding: 16px; border-radius: var(--radius); overflow-x: auto; margin: 16px 0; font-size: 13px; }
+#main .content pre code { background: none; padding: 0; color: inherit; }
+
+/* KaTeX tweaks */
+.katex-display { margin: 16px 0; overflow-x: auto; }
+.katex { font-size: 1.1em; }
+
+/* Welcome / empty state */
+#welcome { text-align: center; padding-top: 120px; }
+#welcome h2 { font-size: 20px; color: var(--text-muted); font-weight: 400; }
+#welcome p { color: var(--text-muted); font-size: 14px; margin-top: 8px; }
+
+/* Mobile */
+@media (max-width: 768px) {
+  #sidebar { width: 100%; min-width: 100%; height: auto; max-height: 40vh; border-right: none; border-bottom: 1px solid var(--border); }
+  body { flex-direction: column; }
+  #main { height: auto; min-height: 60vh; padding: 24px 20px; }
+}
+</style>
+</head>
+<body>
+
+<aside id="sidebar">
+  <div id="sidebar-header"><h1>11408 考研笔记</h1><div class="sub">数学一 + 408 + 英语一</div></div>
+  <div id="search-wrap">
+    <input id="search-input" type="text" placeholder="搜索知识点..." autocomplete="off">
+    <div id="search-results"></div>
+  </div>
+  <nav id="tree"></nav>
+</aside>
+
+<main id="main">
+  <div class="content" id="welcome">
+    <h2>选择一个知识点开始复习</h2>
+    <p>左侧目录选择，或搜索关键词</p>
+  </div>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<script>
+let manifest = null;
+let searchIndex = null;
+
+async function init() {
+  const [m, s] = await Promise.all([
+    fetch('manifest.json?v=' + Date.now()).then(r => r.json()),
+    fetch('search-index.json?v=' + Date.now()).then(r => r.json())
+  ]);
+  manifest = m;
+  searchIndex = s;
+  buildTree();
+  bindSearch();
+}
+
+function buildTree() {
+  const tree = document.getElementById('tree');
+  tree.innerHTML = '';
+  for (const subj of manifest.subjects) {
+    const group = document.createElement('div');
+    group.className = 'subject-group';
+    const label = document.createElement('div');
+    label.className = 'subject-label open';
+    label.innerHTML = '<span class="arrow">\u25B6</span>' + subj.name;
+    const list = document.createElement('div');
+    list.className = 'chapter-list open';
+    for (const ch of subj.chapters) {
+      const chLabel = document.createElement('div');
+      chLabel.className = 'chapter-label open';
+      chLabel.innerHTML = '<span class="arrow">\u25B6</span>' + ch.name.replace(/^\d+-/, '');
+      const noteList = document.createElement('div');
+      noteList.className = 'note-list open';
+      for (const note of ch.notes) {
+        const item = document.createElement('a');
+        item.className = 'note-item';
+        item.textContent = note.title;
+        item.href = '#';
+        item.setAttribute('data-path', note.path);
+        item.onclick = (e) => { e.preventDefault(); loadNote(note.path, item); };
+        noteList.appendChild(item);
+      }
+      chLabel.onclick = () => { chLabel.classList.toggle('open'); noteList.classList.toggle('open'); };
+      list.appendChild(chLabel);
+      list.appendChild(noteList);
+    }
+    label.onclick = () => { label.classList.toggle('open'); list.classList.toggle('open'); };
+    group.appendChild(label);
+    group.appendChild(list);
+    tree.appendChild(group);
+  }
+}
+
+async function loadNote(path, el) {
+  const welcome = document.getElementById('welcome'); if (welcome) welcome.style.display = 'none';
+  document.querySelectorAll('.note-item.active').forEach(n => n.classList.remove('active'));
+  if (el) el.classList.add('active');
+  const main = document.getElementById('main');
+  main.innerHTML = '<div class="content" style="text-align:center;padding-top:120px;"><p style="color:var(--text-muted)">加载中...</p></div>';
+  try {
+    const resp = await fetch(path + '?t=' + Date.now());
+    if (!resp.ok) throw new Error('Not found');
+    const md = await resp.text();
+    let html = marked.parse(md);
+    main.innerHTML = '<div class="content">' + html + '</div>';
+    renderMathInElement(main, {
+      delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '$', right: '$', display: false}
+      ],
+      throwOnError: false
+    });
+  } catch(e) {
+    main.innerHTML = '<div class="content" style="text-align:center;padding-top:120px;"><p style="color:var(--text-muted)">加载失败: ' + e.message + '</p></div>';
+  }
+}
+
+function bindSearch() {
+  const input = document.getElementById('search-input');
+  const results = document.getElementById('search-results');
+  let timer;
+  input.addEventListener('input', () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => doSearch(input.value.trim()), 150);
+  });
+  input.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { results.classList.remove('active'); input.blur(); }
+  });
+  document.addEventListener('click', (e) => {
+    if (!e.target.closest('#search-wrap')) results.classList.remove('active');
+  });
+}
+
+function doSearch(query) {
+  const results = document.getElementById('search-results');
+  if (!query || query.length < 1) { results.classList.remove('active'); return; }
+  if (!searchIndex) return;
+  const q = query.toLowerCase();
+  const matched = [];
+  for (const entry of searchIndex) {
+    const ti = entry.title.toLowerCase().indexOf(q);
+    const ci = entry.content.toLowerCase().indexOf(q);
+    if (ti >= 0 || ci >= 0) {
+      let score = 0;
+      if (ti >= 0) score += 100 - ti;
+      if (ci >= 0) score += 50 - Math.min(ci, 50);
+      matched.push({ ...entry, score });
+    }
+  }
+  matched.sort((a, b) => b.score - a.score);
+  if (matched.length === 0) {
+    results.innerHTML = '<div id="search-empty">没有匹配结果</div>';
+  } else {
+    results.innerHTML = matched.slice(0, 15).map(e => {
+      const ti = e.title.toLowerCase().indexOf(q);
+      let titleHTML = e.title;
+      if (ti >= 0) {
+        titleHTML = e.title.substring(0, ti) + '<mark>' + e.title.substring(ti, ti + q.length) + '</mark>' + e.title.substring(ti + q.length);
+      }
+      let snippet = e.content.substring(0, 120);
+      const ci = e.content.toLowerCase().indexOf(q);
+      if (ci >= 0) {
+        const start = Math.max(0, ci - 30);
+        const end = Math.min(e.content.length, ci + q.length + 50);
+        snippet = (start > 0 ? '...' : '') + e.content.substring(start, end) + (end < e.content.length ? '...' : '');
+      }
+      return '<div class="search-item" data-path="' + e.path + '"><div class="title">' + titleHTML + '</div><div class="path">' + e.path + '</div><div class="snippet">' + snippet.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</div></div>';
+    }).join('');
+  }
+  results.classList.add('active');
+  document.querySelectorAll('.search-item').forEach(el => {
+    el.onclick = () => {
+      const path = el.getAttribute('data-path');
+      const noteEl = document.querySelector('.note-item[data-path="' + path + '"]');
+      loadNote(path, noteEl);
+      results.classList.remove('active');
+      document.getElementById('search-input').value = '';
+    };
+  });
+}
+
+init();
+</script>
+</body>
+</html>

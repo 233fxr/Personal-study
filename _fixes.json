@@ -1,0 +1,1545 @@
+{
+  "absorb": {
+    "ex": {
+      "吸收": "Plants absorb carbon dioxide and release oxygen during photosynthesis.",
+      "使全神贯注": "The lecture was so fascinating that the students were completely absorbed in it.",
+      "承担": "The parent company agreed to absorb all financial losses from the failed subsidiary."
+    }
+  },
+  "abstract": {
+    "ex": {
+      "摘要": "Before reading the full paper, check the abstract to see if it is relevant.",
+      "提取": "We can abstract the key principles from these diverse case studies.",
+      "抽象的": "The concept of happiness is too abstract to measure with any single metric."
+    }
+  },
+  "accommodate": {
+    "ex": {
+      "容纳": "The new concert hall can accommodate up to fifteen thousand people.",
+      "提供住宿": "The university accommodates all first-year international students on campus.",
+      "适应": "The human brain can accommodate to dramatic changes in sensory input over time."
+    }
+  },
+  "accompany": {
+    "ex": {
+      "陪伴": "She accompanied her elderly mother to the doctors appointment.",
+      "为…伴奏": "A renowned pianist accompanied the violinist during the evening recital."
+    }
+  },
+  "acknowledge": {
+    "ex": {
+      "承认": "The CEO finally acknowledged that the product launch had been a failure.",
+      "致谢": "The author acknowledged her research assistants in the preface of the book."
+    }
+  },
+  "acquire": {
+    "ex": {
+      "获得": "She acquired valuable leadership skills during her time in the military.",
+      "习得": "Children acquire their first language naturally without formal instruction."
+    }
+  },
+  "adapt": {
+    "ex": {
+      "适应": "It took the immigrants several years to adapt to life in a new country.",
+      "改编": "The bestselling novel was adapted into a critically acclaimed television series."
+    }
+  },
+  "administration": {
+    "ex": {
+      "管理": "Effective administration requires both strategic vision and attention to detail.",
+      "行政": "The new policy simplifies the administrative procedures for small businesses.",
+      "政府": "The Kennedy administration launched the Apollo space program in the 1960s."
+    }
+  },
+  "adopt": {
+    "ex": {
+      "采纳": "The committee voted to adopt the new environmental guidelines.",
+      "收养": "After years of waiting, the couple adopted a baby girl from China."
+    }
+  },
+  "advance": {
+    "ex": {
+      "前进": "Despite heavy enemy fire, the troops continued to advance across the open field.",
+      "预付": "The author received a substantial advance before even finishing the manuscript.",
+      "预先的": "You must obtain advance approval from your manager before making any large purchase."
+    }
+  },
+  "affect": {
+    "ex": {
+      "影响": "Climate change will affect agricultural production worldwide in the coming decades.",
+      "感动": "The volunteers tireless efforts deeply affected everyone in the community.",
+      "假装": "He affected a casual attitude toward the exam results though he had studied intensely."
+    }
+  },
+  "aggregate": {
+    "ex": {
+      "总计": "When you aggregate all the minor expenses they add up to a significant sum.",
+      "总的": "The aggregate effect of these small policy changes was remarkable.",
+      "骨料": "The construction crew mixed cement with gravel aggregate to pour the foundation."
+    }
+  },
+  "apparent": {
+    "ex": {
+      "明显的": "The flaws in the original design soon became apparent during testing.",
+      "表面上的": "Despite her apparent calm she was actually extremely anxious about the interview."
+    }
+  },
+  "appeal": {
+    "ex": {
+      "呼吁": "The UN Secretary-General appealed for immediate humanitarian access to the region.",
+      "吸引": "The prospect of flexible working hours appeals to many young professionals today.",
+      "上诉": "The convicted defendant plans to appeal to the Supreme Court next month."
+    }
+  },
+  "appetite": {
+    "ex": {
+      "食欲": "A brisk morning walk always gives her a healthy appetite for breakfast.",
+      "欲望": "The venture capital firms appetite for AI startups has grown dramatically this year."
+    }
+  },
+  "appliance": {
+    "ex": {
+      "器具": "The laboratory is equipped with precision measuring appliances.",
+      "家用电器": "Energy-efficient home appliances can significantly reduce your electricity bill."
+    }
+  },
+  "apply": {
+    "ex": {
+      "申请": "She applied to six different graduate programs and was accepted by four.",
+      "应用": "Engineers apply scientific principles to solve practical real-world problems.",
+      "适用于": "The new tax regulation only applies to businesses with over fifty employees."
+    }
+  },
+  "appropriate": {
+    "ex": {
+      "适当的": "It is important to wear appropriate clothing when visiting religious sites.",
+      "拨款": "The Senate appropriated an additional three billion dollars for infrastructure projects."
+    }
+  },
+  "argue": {
+    "ex": {
+      "争论": "The couple argued loudly about money in the middle of the restaurant.",
+      "主张": "The defense lawyer argued that his client had acted in self-defense."
+    }
+  },
+  "arrest": {
+    "ex": {
+      "逮捕": "Police arrested three suspects in connection with the bank robbery.",
+      "吸引": "The unusual sound of his name in the foreign language arrested her attention immediately."
+    }
+  },
+  "assemble": {
+    "ex": {
+      "集合": "Protesters assembled in the town square to demand political reforms.",
+      "组装": "The bookshelf was easy to assemble using just the included tools and instructions."
+    }
+  },
+  "assume": {
+    "ex": {
+      "假设": "We cannot simply assume that the economy will continue to grow at this rate.",
+      "承担": "As team leader she must assume full responsibility for both successes and failures."
+    }
+  },
+  "atmosphere": {
+    "ex": {
+      "大气层": "Satellites orbit Earth above the densest part of the atmosphere.",
+      "氛围": "The restaurant creates a romantic atmosphere with candlelight and soft music."
+    }
+  },
+  "attach": {
+    "ex": {
+      "附上": "Please attach a recent photograph to your visa application form.",
+      "重视": "The company attaches considerable importance to employee work-life balance."
+    }
+  },
+  "abandon_add": {
+    "defn": "放弃；遗弃；★n.放纵",
+    "ex": {
+      "放弃": "They had to abandon the sinking ship.",
+      "遗弃": "An abandoned puppy was found shivering by the roadside.",
+      "放纵": "She danced with wild abandon at the wedding reception."
+    }
+  },
+  "account_add": {
+    "defn": "★n.账户；★v.解释(account for)；★n.叙述",
+    "ex": {
+      "账户": "She transferred money from her savings account to her checking account.",
+      "解释": "How do you account for the sudden drop in sales last quarter?",
+      "叙述": "The witness gave a detailed account of the accident to the police."
+    }
+  },
+  "address_add": {
+    "defn": "★n.地址；★v.处理；★v.向…讲话",
+    "ex": {
+      "地址": "Please provide your full mailing address including the postal code.",
+      "处理": "The new mayor promised to address the citys housing crisis immediately.",
+      "向…讲话": "The president addressed the nation in a televised speech last night."
+    }
+  },
+  "agent_add": {
+    "defn": "★n.代理人；★n.剂",
+    "ex": {
+      "代理人": "A travel agent can help you find the best deals on international flights.",
+      "剂": "Bleach is a powerful cleaning agent that kills most household bacteria."
+    }
+  },
+  "answer_add": {
+    "defn": "★n./v.回答；★v.对…负责(answer for)",
+    "ex": {
+      "回答": "She gave a clear and concise answer to the interviewers question.",
+      "对…负责": "Sooner or later you will have to answer for your reckless behavior."
+    }
+  },
+  "allow_add": {
+    "defn": "允许；★v.考虑到(allow for)",
+    "ex": {
+      "允许": "The school does not allow students to use mobile phones during class hours.",
+      "考虑到": "When planning the budget you must allow for unexpected cost overruns."
+    }
+  },
+  "arm_add": {
+    "defn": "★n.手臂；★v.武装；★n.(pl.)武器",
+    "ex": {
+      "手臂": "She broke her arm in a skiing accident and had to wear a cast for weeks.",
+      "武装": "The militia group was armed with weapons smuggled across the border.",
+      "武器": "The government imposed a strict embargo on arms sales to the region."
+    }
+  },
+  "article_add": {
+    "defn": "★n.文章；★n.物品；★n.条款",
+    "ex": {
+      "文章": "The journalist wrote an insightful article about climate change policy.",
+      "物品": "Customs officials have the right to inspect all articles in your luggage.",
+      "条款": "Article 23 of the treaty specifically addresses intellectual property rights."
+    }
+  },
+  "attend_add": {
+    "defn": "出席；★v.照料(attend to)",
+    "ex": {
+      "出席": "Over five hundred delegates attended the annual technology conference.",
+      "照料": "A team of experienced nurses will attend to your grandfather round the clock."
+    }
+  },
+  "balance_add": {
+    "defn": "n./v.平衡；★n.余额",
+    "ex": {
+      "平衡": "Finding a healthy balance between work and family life is a constant challenge.",
+      "余额": "You can check your account balance at any ATM machine."
+    }
+  },
+  "bear_add": {
+    "defn": "★n.熊；★v.承受；★v.生育；★v.带有",
+    "ex": {
+      "熊": "A brown bear was spotted wandering near the campsite early this morning.",
+      "承受": "The elderly bridge can no longer bear the weight of modern heavy trucks.",
+      "生育": "She bore and raised five children while maintaining a full-time career.",
+      "带有": "The ancient manuscript bears the unmistakable handwriting of the famous scholar."
+    }
+  },
+  "beat_add": {
+    "defn": "v.击打；★v.击败；★n.节拍",
+    "ex": {
+      "击打": "The boxer beat his opponent decisively in the third round.",
+      "击败": "The underdog team beat the defending champions in a stunning upset.",
+      "节拍": "The jazz musician tapped his foot to keep the steady beat of the music."
+    }
+  },
+  "board_add": {
+    "defn": "★n.板；★n.董事会；★v.登上",
+    "ex": {
+      "板": "The teacher wrote the homework assignment on the whiteboard.",
+      "董事会": "The board unanimously approved the CEO strategic expansion plan.",
+      "登上": "We will board the cruise ship at the Port of Miami tomorrow morning."
+    }
+  },
+  "bond_add": {
+    "defn": "★n.纽带；★n.债券；★n.契约",
+    "ex": {
+      "纽带": "The shared experience of hardship created an unbreakable bond between the soldiers.",
+      "债券": "Investors often turn to government bonds during periods of stock market volatility.",
+      "契约": "The two companies signed a legal bond guaranteeing their long-term partnership."
+    }
+  },
+  "book_add": {
+    "defn": "n.书；★v.预订",
+    "ex": {
+      "书": "She spent the entire weekend reading a fascinating book about ancient civilizations.",
+      "预订": "We should book our flights and hotel at least three months in advance."
+    }
+  },
+  "branch_add": {
+    "defn": "★n.树枝；★n.分公司；★n.分支学科",
+    "ex": {
+      "树枝": "A robin built its nest on the highest branch of the old oak tree.",
+      "分公司": "The multinational corporation has branch offices in over sixty countries.",
+      "分支学科": "Ethics is an important branch of philosophy that deals with moral questions."
+    }
+  },
+  "bridge_add": {
+    "defn": "★n.桥；★v.弥合；★n.舰桥",
+    "ex": {
+      "桥": "The Golden Gate Bridge is one of the most photographed landmarks in America.",
+      "弥合": "Education is often seen as the best way to bridge the gap between rich and poor.",
+      "舰桥": "The captain stood on the bridge giving orders as the storm approached."
+    }
+  },
+  "command_add": {
+    "defn": "★n./v.命令；★v.掌握；★v.赢得尊敬",
+    "ex": {
+      "命令": "The general issued a direct command to retreat from the front lines.",
+      "掌握": "She commands an impressive fluency in six different programming languages.",
+      "赢得尊敬": "The veteran teacher commanded the respect of even the most rebellious students."
+    }
+  },
+  "coin_add": {
+    "defn": "n.硬币；★v.创造(新词)",
+    "ex": {
+      "硬币": "He found an ancient Roman coin buried in his backyard garden.",
+      "创造(新词)": "The word selfie was coined in the early days of social media."
+    }
+  },
+  "forge": {
+    "ex": {
+      "锻造": "The blacksmith forged a beautiful iron gate for the castle.",
+      "伪造": "The suspect was arrested for forging the signature on official documents.",
+      "稳步前进": "Despite the heavy losses the team forged ahead with their ambitious plan."
+    }
+  },
+  "fuel": {
+    "ex": {
+      "燃料": "Fossil fuels remain the primary source of energy worldwide despite environmental concerns.",
+      "加剧": "The controversial decision only served to fuel public anger and protests."
+    }
+  },
+  "launch": {
+    "ex": {
+      "发射": "The space agency successfully launched its newest satellite into orbit.",
+      "发起": "The company plans to launch its new product line at the trade show next month.",
+      "下水": "The naval destroyer was launched with great ceremony at the shipyard."
+    }
+  },
+  "margin": {
+    "ex": {
+      "边缘": "She wrote brief notes in the margin of her textbook while studying.",
+      "利润": "The retailer operates on razor-thin margins in the competitive grocery market.",
+      "余地": "The election was won by a comfortable margin of over ten percentage points."
+    }
+  },
+  "platform": {
+    "ex": {
+      "平台": "Social media platforms have transformed how people communicate and share information.",
+      "站台": "Passengers waited patiently on the platform for the delayed train to arrive.",
+      "纲领": "The candidate ran on a platform of tax reform and healthcare improvement."
+    }
+  },
+  "pose": {
+    "ex": {
+      "姿势": "The model held a graceful pose for the fashion photographer.",
+      "造成": "The chemical spill poses a serious threat to the local water supply.",
+      "假装": "He tried to pose as an experienced investor though he had only been trading for a month."
+    }
+  },
+  "prime": {
+    "ex": {
+      "首要的": "Ensuring public safety is the prime responsibility of any government.",
+      "优质的": "The restaurant is known for using only the prime cuts of beef in its dishes.",
+      "全盛期": "The athlete was in her prime when she set three world records in a single year."
+    }
+  },
+  "promote": {
+    "ex": {
+      "促进": "Regular exercise promotes both physical health and mental well-being.",
+      "晋升": "She was promoted to senior manager after leading several successful projects.",
+      "推广": "The company invested millions to promote its new electric vehicle to consumers."
+    }
+  },
+  "property": {
+    "ex": {
+      "财产": "The stolen property was recovered by police and returned to its rightful owners.",
+      "性质": "One remarkable property of water is that it expands when it freezes.",
+      "房产": "Real estate agents help buyers find residential property in their preferred neighborhoods."
+    }
+  },
+  "prospect": {
+    "ex": {
+      "前景": "The economic prospects for the coming year look increasingly uncertain.",
+      "可能性": "There is little prospect of reaching an agreement before the deadline.",
+      "勘探": "The mining company is prospecting for gold in the remote mountain region."
+    }
+  },
+  "provision": {
+    "ex": {
+      "提供": "The government made provision for emergency food supplies during the natural disaster.",
+      "条款": "A key provision in the contract allows either party to terminate with thirty days notice.",
+      "准备": "The company made generous provision for employee retirement benefits."
+    }
+  },
+  "pursuit": {
+    "ex": {
+      "追求": "The pursuit of knowledge is a noble goal that has driven human progress for centuries.",
+      "追赶": "The police officers were in hot pursuit of the fleeing suspect through the narrow streets.",
+      "爱好": "Birdwatching became his favorite outdoor pursuit after he retired from the corporate world."
+    }
+  },
+  "raise": {
+    "ex": {
+      "举起": "The students raised their hands eagerly when the teacher asked a question.",
+      "提高": "The government plans to raise taxes on luxury goods to fund public education.",
+      "抚养": "She was raised by her grandparents in a small village in the countryside.",
+      "筹集": "The charity event raised over a million dollars for cancer research."
+    }
+  },
+  "range": {
+    "ex": {
+      "范围": "The store offers a wide range of products from electronics to household goods.",
+      "山脉": "The Rocky Mountain range stretches over four thousand kilometers across North America.",
+      "变化": "The ages of the participants ranged from eighteen to seventy-five years old."
+    }
+  },
+  "rate": {
+    "ex": {
+      "比率": "The unemployment rate fell to its lowest level in over a decade.",
+      "评价": "Customers consistently rate this restaurant as the best seafood place in town.",
+      "速度": "The car was traveling at an alarming rate when it crashed into the barrier."
+    }
+  },
+  "reason": {
+    "ex": {
+      "原因": "The primary reason for the delay was severe weather along the delivery route.",
+      "推理": "Humans possess the unique ability to reason abstractly about complex problems.",
+      "道理": "There is good reason to believe that the economy will recover by next year."
+    }
+  },
+  "reflect": {
+    "ex": {
+      "反射": "The calm lake perfectly reflected the snow-capped mountains surrounding it.",
+      "反映": "The survey results reflect a growing dissatisfaction with the current leadership.",
+      "反思": "She took a few moments to reflect on what the experience had taught her."
+    }
+  },
+  "regard": {
+    "ex": {
+      "看作": "He is widely regarded as the most influential economist of his generation.",
+      "尊敬": "The veteran teacher was held in high regard by both students and colleagues.",
+      "方面": "In this regard the two proposals are fundamentally different in their approach."
+    }
+  },
+  "relate": {
+    "ex": {
+      "联系": "The detective was able to relate the two seemingly unrelated crimes.",
+      "讲述": "The old sailor related tales of his adventures across the seven seas."
+    }
+  },
+  "release": {
+    "ex": {
+      "释放": "The animal rights group successfully campaigned for the release of the captive whales.",
+      "发布": "The band is set to release their highly anticipated new album next month.",
+      "排放": "The factory was fined for illegally releasing toxic chemicals into the river."
+    }
+  },
+  "remain": {
+    "ex": {
+      "保持": "Despite numerous challenges the team remained optimistic about the project outcome.",
+      "剩余": "Only a handful of ancient manuscripts remain from the library that once held thousands."
+    }
+  },
+  "render": {
+    "ex": {
+      "使成为": "The sudden downpour rendered the dirt road completely impassable.",
+      "提供": "Volunteers rendered invaluable assistance to the flood victims in the coastal region.",
+      "翻译": "The poem is notoriously difficult to render accurately into English from classical Chinese."
+    }
+  },
+  "reserve": {
+    "ex": {
+      "保留": "The restaurant reserves the right to refuse service to anyone.",
+      "预订": "I would like to reserve a table for four at seven o clock this evening.",
+      "储备": "The central bank maintains substantial foreign currency reserves.",
+      "自然保护区": "The wildlife reserve is home to over two hundred species of migratory birds."
+    }
+  },
+  "resolve": {
+    "ex": {
+      "解决": "The two countries agreed to resolve their border dispute through diplomatic channels.",
+      "决心": "She made a firm resolve to finish writing her novel before the end of the year.",
+      "分解": "The chemical compound can be resolved into its constituent elements through heating."
+    }
+  },
+  "resource": {
+    "ex": {
+      "资源": "The country boasts abundant natural resources including oil gas and rare minerals.",
+      "才智": "She drew upon all her inner resources to cope with the devastating personal loss."
+    }
+  },
+  "respect": {
+    "ex": {
+      "尊重": "Mutual respect is the foundation of any healthy professional relationship.",
+      "方面": "In many respects the new policy represents a significant departure from tradition."
+    }
+  },
+  "responsible": {
+    "ex": {
+      "负责的": "All parents are responsible for ensuring their children receive a proper education.",
+      "有责任感的": "A responsible citizen should vote in every election and stay informed about current events.",
+      "作为原因": "Human activity is largely responsible for the dramatic rise in global temperatures."
+    }
+  },
+  "rest": {
+    "ex": {
+      "休息": "After running the marathon he needed a full week of rest to recover.",
+      "剩余": "The rest of the budget will be allocated to research and development projects.",
+      "依靠": "The prosecution case rests entirely on the testimony of a single witness."
+    }
+  },
+  "review": {
+    "ex": {
+      "复习": "Students should review their notes regularly rather than cramming before the exam.",
+      "审查": "The government ordered an independent review of the controversial policy decision.",
+      "评论": "The film received glowing reviews from critics and audiences alike."
+    }
+  },
+  "revolution": {
+    "ex": {
+      "革命": "The Industrial Revolution transformed society from agrarian to industrial in just decades.",
+      "旋转": "The Earth completes one full revolution around the Sun every three hundred sixty-five days."
+    }
+  },
+  "rich": {
+    "ex": {
+      "富有的": "The wealthy industrialist donated a significant portion of his fortune to charity.",
+      "丰富的": "The region is rich in both natural resources and cultural heritage sites.",
+      "肥沃的": "The rich volcanic soil produces some of the finest coffee beans in the world."
+    }
+  },
+  "rise": {
+    "ex": {
+      "升起": "The sun rises in the east and sets in the west every day.",
+      "上涨": "Consumer prices have risen sharply over the past six months due to inflation.",
+      "崛起": "The rise of China as a global economic power has reshaped international trade."
+    }
+  },
+  "risk": {
+    "ex": {
+      "风险": "Investing in the stock market always carries a certain degree of financial risk.",
+      "冒险": "She risked her life to save the child from the burning building."
+    }
+  },
+  "role": {
+    "ex": {
+      "角色": "The actor prepared for months to play the challenging role of a historical figure.",
+      "作用": "Technology plays an increasingly important role in modern education systems."
+    }
+  },
+  "room": {
+    "ex": {
+      "房间": "The hotel room had a spectacular view of the ocean and the surrounding coastline.",
+      "空间": "There is still plenty of room for improvement in the current service delivery model."
+    }
+  },
+  "root": {
+    "ex": {
+      "根": "The old oak tree had roots that extended deep into the ancient soil.",
+      "根源": "The root cause of the conflict can be traced back to unresolved historical grievances.",
+      "扎根": "His passion for music is deeply rooted in his childhood experiences."
+    }
+  },
+  "rule": {
+    "ex": {
+      "规则": "All students must follow the school rules regarding appropriate dress and behavior.",
+      "统治": "The dynasty ruled over the vast empire for nearly three hundred years.",
+      "裁决": "The Supreme Court ruled that the law was unconstitutional by a narrow majority."
+    }
+  },
+  "run": {
+    "ex": {
+      "跑": "She runs five kilometers every morning before heading to the office.",
+      "经营": "He has been running a small family-owned restaurant for over twenty years.",
+      "运转": "The factory runs twenty-four hours a day to meet the growing demand for its products.",
+      "竞选": "The senator announced her intention to run for president in the upcoming election."
+    }
+  },
+  "rush": {
+    "ex": {
+      "冲": "The crowd rushed toward the stage the moment the band appeared on it.",
+      "匆忙": "There is no need to rush; we still have plenty of time before the flight departs.",
+      "高峰期": "Avoid driving during the evening rush hour if you want to reach home on time."
+    }
+  },
+  "capital_add": {
+    "defn": "★n.首都；★n.资本；★adj.死刑的",
+    "ex": {
+      "首都": "Tokyo is the bustling capital and largest city of Japan.",
+      "资本": "Access to venture capital is crucial for tech startups in their early stages.",
+      "死刑的": "Debates over capital punishment continue to divide public opinion across the country."
+    }
+  },
+  "case_add": {
+    "defn": "★n.案例；★n.案件；★n.病例",
+    "ex": {
+      "案例": "This legal case set an important precedent for future copyright disputes.",
+      "案件": "Detectives have been working on the murder case for over six months.",
+      "病例": "Health officials confirmed twelve new cases of the infectious disease today."
+    }
+  },
+  "cast_add": {
+    "defn": "★v.投掷；★v.投射；★n.演员阵容",
+    "ex": {
+      "投掷": "The fisherman cast his line far out into the deep blue water.",
+      "投射": "New scientific evidence casts serious doubt on the widely accepted theory.",
+      "演员阵容": "The films impressive cast includes three Academy Award-winning actors."
+    }
+  },
+  "catch_add": {
+    "defn": "★v.抓住；★v.赶上；★v.染上；★n.陷阱",
+    "ex": {
+      "抓住": "The goalkeeper leaped and managed to catch the ball just before it crossed the line.",
+      "赶上": "If we leave now we should be able to catch the last bus to the city center.",
+      "染上": "She caught a bad cold after walking home in the pouring rain.",
+      "陷阱": "The offer sounds too good to be true; there must be a catch hidden somewhere."
+    }
+  },
+  "chair_add": {
+    "defn": "★n.椅子；★v.主持",
+    "ex": {
+      "椅子": "He pulled up a chair and sat down at the conference table.",
+      "主持": "A distinguished professor from Harvard will chair the academic panel discussion."
+    }
+  },
+  "challenge_add": {
+    "defn": "★n.挑战；★v.质疑",
+    "ex": {
+      "挑战": "Climbing Mount Everest remains one of the greatest physical challenges on Earth.",
+      "质疑": "The opposition lawyer challenged the credibility of the key witness during cross-examination."
+    }
+  },
+  "channel_add": {
+    "defn": "★n.频道；★n.海峡；★v.引导",
+    "ex": {
+      "频道": "The documentary will air on the National Geographic Channel this Sunday evening.",
+      "海峡": "The English Channel separates the southern coast of England from northern France.",
+      "引导": "The charity channels all donations directly to the communities that need them most."
+    }
+  },
+  "charge_add": {
+    "defn": "★v.收费；★v.指控；★v.冲锋；★n.费用",
+    "ex": {
+      "收费": "The restaurant charges a ten percent service fee for large groups.",
+      "指控": "He was formally charged with embezzlement and released on bail pending trial.",
+      "冲锋": "The cavalry regiment charged bravely into the heavily defended enemy positions.",
+      "费用": "There is an additional charge of fifty dollars for late check-out at the hotel."
+    }
+  },
+  "check_add": {
+    "defn": "★v.检查；★v.抑制；★n.支票",
+    "ex": {
+      "检查": "Please double-check your answers before submitting the final examination paper.",
+      "抑制": "The central bank raised interest rates to check the rapid rise of inflation.",
+      "支票": "He mailed a personal check to cover the full cost of the repair work."
+    }
+  },
+  "claim_add": {
+    "defn": "★v.声称；★v.索赔；★n.声称",
+    "ex": {
+      "声称": "The scientist extraordinary claims were met with widespread skepticism from peers.",
+      "索赔": "Passengers are entitled to claim compensation if their luggage is lost or damaged."
+    }
+  },
+  "class_add": {
+    "defn": "★n.班级；★n.阶级；★v.分类",
+    "ex": {
+      "班级": "There are thirty-five students in my daughters kindergarten class this year.",
+      "阶级": "The widening gap between social classes has become a major political concern.",
+      "分类": "Librarians class newly arrived books according to the Dewey Decimal System."
+    }
+  },
+  "clear_add": {
+    "defn": "★adj.清楚的；★v.清除",
+    "ex": {
+      "清楚的": "The instructions were perfectly clear and no one had any trouble following them.",
+      "清除": "Volunteers spent the weekend clearing litter from the local beach and park areas."
+    }
+  },
+  "cloud_add": {
+    "defn": "★n.云；★v.使模糊",
+    "ex": {
+      "云": "Dark storm clouds gathered on the horizon signaling the approach of a fierce thunderstorm.",
+      "使模糊": "His personal feelings for the defendant clouded his ability to judge the case fairly."
+    }
+  },
+  "code_add": {
+    "defn": "★n.密码；★n.准则；★n.法规",
+    "ex": {
+      "密码": "The spy transmitted the classified information using an unbreakable encryption code.",
+      "准则": "Medical professionals must adhere to a strict ethical code in all patient interactions.",
+      "法规": "The city building code requires all new structures to meet strict earthquake safety standards."
+    }
+  },
+  "company_add": {
+    "defn": "★n.公司；★n.陪伴",
+    "ex": {
+      "公司": "She founded the technology company in her garage and grew it into a billion-dollar enterprise.",
+      "陪伴": "After his wife passed away he cherished the company of his grandchildren on weekends."
+    }
+  },
+  "composition_add": {
+    "defn": "★n.组成；★n.作品；★n.作文",
+    "ex": {
+      "组成": "Scientists analyzed the chemical composition of the ancient pottery shards.",
+      "作品": "Beethoven late string quartets are considered among his greatest musical compositions.",
+      "作文": "Students were asked to write a five-hundred-word composition about their summer vacation."
+    }
+  },
+  "condition_add": {
+    "defn": "★n.条件；★n.状况；★v.制约",
+    "ex": {
+      "条件": "The scholarship comes with the condition that recipients maintain a minimum grade point average.",
+      "状况": "The patient condition has improved significantly since receiving the new experimental treatment.",
+      "制约": "Consumer spending patterns are heavily conditioned by prevailing economic circumstances."
+    }
+  },
+  "avert": {
+    "ex": {
+      "避免": "Quick action by firefighters narrowly averted a major disaster at the chemical plant.",
+      "转移": "She averted her gaze from the gruesome scene on the television screen."
+    }
+  },
+  "avenue": {
+    "ex": {
+      "大街": "The elegant shops along Fifth Avenue attract wealthy shoppers from around the world.",
+      "途径": "Online learning has opened new avenues for professional development and career advancement."
+    }
+  },
+  "back": {
+    "ex": {
+      "背部": "He injured his back while lifting heavy boxes during the office relocation.",
+      "支持": "The board of directors unanimously decided to back the new expansion strategy.",
+      "回": "Please call me back when you have a free moment this afternoon."
+    }
+  },
+  "backward": {
+    "ex": {
+      "向后的": "She took a backward step when she realized how close she was to the cliff edge.",
+      "落后的": "The government launched initiatives to develop economically backward regions of the country."
+    }
+  },
+  "band": {
+    "ex": {
+      "乐队": "The rock band performed in front of a sold-out crowd of over fifty thousand fans.",
+      "带": "She used a colorful elastic band to keep her hair neatly tied back.",
+      "波段": "The radio operates on the FM frequency band between eighty-eight and one hundred eight megahertz."
+    }
+  },
+  "bar": {
+    "ex": {
+      "酒吧": "They met for drinks at a cozy bar near the university campus.",
+      "条": "The prisoner tried to saw through the iron bars of his cell window.",
+      "禁止": "The athlete was barred from competing for two years after testing positive for banned substances."
+    }
+  },
+  "bare": {
+    "ex": {
+      "赤裸的": "The children ran barefoot across the warm sand on the beach.",
+      "仅有的": "The refugees arrived with nothing but the bare essentials they could carry."
+    }
+  },
+  "bargain": {
+    "ex": {
+      "便宜货": "She found a designer handbag at the flea market for an absolute bargain price.",
+      "讨价还价": "In many Asian markets it is expected that customers will bargain over the final price."
+    }
+  },
+  "capacity": {
+    "ex": {
+      "容量": "The stadium has a seating capacity of over eighty thousand spectators.",
+      "能力": "She has an extraordinary capacity for remembering even the smallest details.",
+      "身份": "He attended the ceremony in his official capacity as the ambassador to France."
+    }
+  },
+  "character": {
+    "ex": {
+      "性格": "Honesty and integrity are the most important aspects of a person character.",
+      "角色": "The villain is the most memorable character in the entire Shakespeare play.",
+      "文字": "The ancient scroll contains mysterious characters that scholars have yet to decipher."
+    }
+  },
+  "chip": {
+    "ex": {
+      "芯片": "The global shortage of semiconductor chips has disrupted the automotive industry worldwide.",
+      "碎片": "Be careful not to step on the glass chips from the broken window.",
+      "炸薯条": "The restaurant serves its fish with a generous portion of crispy chips."
+    }
+  },
+  "civil": {
+    "ex": {
+      "公民的": "Every person is entitled to basic civil rights regardless of their background.",
+      "文明的": "We had a perfectly civil conversation despite our fundamental political disagreements.",
+      "民事的": "The dispute was resolved through civil litigation rather than criminal prosecution."
+    }
+  },
+  "climate": {
+    "ex": {
+      "气候": "Scientists warn that climate change poses an existential threat to coastal communities worldwide.",
+      "氛围": "The new management team has created a much more positive working climate in the office."
+    }
+  },
+  "cling": {
+    "ex": {
+      "紧紧抓住": "The frightened child clung tightly to her mother hand in the crowded street.",
+      "坚持": "Some employees still cling to the outdated notion that working longer hours equals higher productivity."
+    }
+  },
+  "clip": {
+    "ex": {
+      "夹子": "She used a paper clip to keep the important documents together.",
+      "剪": "The barber carefully clipped the stray hairs around the customer ears."
+    }
+  },
+  "coarse": {
+    "ex": {
+      "粗糙的": "The coarse sandpaper is used for the initial stage of smoothing rough wood surfaces.",
+      "粗鲁的": "His coarse remarks at the formal dinner embarrassed everyone sitting at the table."
+    }
+  },
+  "code": {
+    "ex": {
+      "密码": "The encrypted message could only be read by those who knew the secret code.",
+      "准则": "Journalists around the world are expected to follow a strict professional code of ethics."
+    }
+  },
+  "coincide": {
+    "ex": {
+      "同时发生": "The festival coincides with the annual harvest celebration in the region.",
+      "一致": "Her personal values coincide closely with the mission statement of the charitable organization."
+    }
+  },
+  "collaborate": {
+    "ex": {
+      "合作": "Scientists from six different countries collaborated on the groundbreaking research project.",
+      "通敌": "He was accused of collaborating with enemy forces during the wartime occupation."
+    }
+  },
+  "command": {
+    "ex": {
+      "命令": "The captain gave the command to lower the lifeboats as the ship began to sink.",
+      "掌握": "She commands a thorough understanding of both ancient and modern Chinese literature.",
+      "赢得": "The charismatic speaker commanded the complete attention of everyone in the auditorium."
+    }
+  },
+  "commission": {
+    "ex": {
+      "委员会": "An independent commission was established to investigate allegations of corruption.",
+      "佣金": "Sales representatives earn a five percent commission on every product they sell.",
+      "委托": "The city council commissioned a famous sculptor to create a monument for the central plaza."
+    }
+  },
+  "commit": {
+    "ex": {
+      "犯": "Anyone who commits a serious crime must face the legal consequences of their actions.",
+      "承诺": "The government has committed substantial resources to improving rural healthcare access."
+    }
+  },
+  "communicate": {
+    "ex": {
+      "交流": "The ability to communicate clearly in writing is essential in most professional careers.",
+      "传达": "The artist paintings communicate a deep sense of longing and nostalgia for a lost era."
+    }
+  },
+  "conservative": {
+    "ex": {
+      "保守的": "The company made a conservative estimate predicting only modest growth in the coming quarter.",
+      "保守派": "The proposal faced strong opposition from fiscal conservatives in the parliament."
+    }
+  },
+  "dazzle": {
+    "ex": {
+      "使眩目": "The bright headlights of the oncoming car dazzled the driver momentarily.",
+      "使惊叹": "The young prodigy performance dazzled both the judges and the entire audience."
+    }
+  },
+  "depreciate": {
+    "ex": {
+      "贬值": "New automobiles typically depreciate by about twenty percent the moment they leave the dealership.",
+      "贬低": "It is unwise to depreciate the contributions of junior team members to the project."
+    }
+  },
+  "digest": {
+    "ex": {
+      "消化": "The human stomach takes approximately four hours to fully digest a typical meal.",
+      "摘要": "The law professor publishes a monthly digest of recent Supreme Court rulings for legal practitioners."
+    }
+  },
+  "dismiss": {
+    "ex": {
+      "解雇": "The manager was summarily dismissed after the internal investigation revealed financial misconduct.",
+      "驳回": "The judge dismissed the lawsuit on the grounds that it lacked sufficient legal merit to proceed."
+    }
+  },
+  "dispose": {
+    "ex": {
+      "处理": "Hazardous chemicals must be properly disposed of to prevent environmental contamination.",
+      "使倾向于": "Her gentle and compassionate nature disposed her toward a career in pediatric nursing."
+    }
+  },
+  "distinct": {
+    "ex": {
+      "不同的": "The two species may look similar but they are genetically quite distinct from each other.",
+      "明显的": "There was a distinct smell of freshly baked bread wafting from the kitchen."
+    }
+  },
+  "domestic": {
+    "ex": {
+      "国内的": "The airline operates flights on both domestic routes and international long-haul destinations.",
+      "家庭的": "Domestic responsibilities are still unevenly distributed between men and women in many households."
+    }
+  },
+  "draft": {
+    "ex": {
+      "草稿": "She spent the entire weekend revising the rough draft of her dissertation chapter.",
+      "起草": "A team of legal experts was assembled to draft the new constitutional amendments."
+    }
+  },
+  "dramatic": {
+    "ex": {
+      "戏剧性的": "His dramatic resignation speech left the entire boardroom in stunned silence.",
+      "急剧的": "Scientists have observed a dramatic decline in the population of honeybees over the past decade."
+    }
+  },
+  "dynamic": {
+    "ex": {
+      "动态的": "The global economy is a complex and dynamic system that is constantly evolving.",
+      "充满活力的": "They are looking for a dynamic marketing director who can bring fresh energy to the brand."
+    }
+  },
+  "echo": {
+    "ex": {
+      "回声": "The sound of their footsteps echoed through the vast empty cathedral nave.",
+      "附和": "The newspaper editorial echoed the widespread public sentiment against the proposed tax increase."
+    }
+  },
+  "element": {
+    "ex": {
+      "元素": "Carbon is one of the most abundant chemical elements found in the known universe.",
+      "要素": "Trust between team members is an absolutely essential element of any successful collaborative project."
+    }
+  },
+  "embrace": {
+    "ex": {
+      "拥抱": "The father embraced his daughter warmly when she returned home after studying abroad.",
+      "欣然接受": "Forward-thinking companies have fully embraced the shift toward flexible remote working arrangements."
+    }
+  },
+  "emerge": {
+    "ex": {
+      "出现": "After hours of deliberation a clear consensus began to emerge among the committee members.",
+      "显露": "New evidence emerged during the trial that completely changed the direction of the defense strategy."
+    }
+  },
+  "employ": {
+    "ex": {
+      "雇用": "The manufacturing plant employs over three thousand workers from the surrounding communities.",
+      "使用": "The innovative treatment employs cutting-edge gene therapy technology to target cancer cells."
+    }
+  },
+  "evaporate": {
+    "ex": {
+      "蒸发": "The morning dew quickly evaporated as the sun rose higher above the horizon.",
+      "消失": "The company profits virtually evaporated overnight when the stock market crashed."
+    }
+  },
+  "exploit": {
+    "ex": {
+      "功绩": "The explorer legendary exploits in the Antarctic are still studied by adventurers today.",
+      "剥削": "Labor laws were enacted to prevent factory owners from exploiting vulnerable immigrant workers.",
+      "利用": "The company seeks to exploit new opportunities in the rapidly growing renewable energy market."
+    }
+  },
+  "explosive": {
+    "ex": {
+      "爆炸的": "The bomb disposal unit carefully handled the highly explosive material in a controlled environment.",
+      "炸药": "Strict regulations govern the transportation and storage of commercial explosives across state lines."
+    },
+    "add_stars": [
+      "★adj.激增的"
+    ]
+  },
+  "extend": {
+    "ex": {
+      "延伸": "The hiking trail extends for over fifty kilometers along the scenic coastal cliffs.",
+      "给予": "The organizers extended a warm invitation to all the distinguished international guests."
+    }
+  },
+  "extract": {
+    "ex": {
+      "摘录": "The professor read aloud an extract from the ancient philosophical text during the lecture.",
+      "提取": "Scientists developed a new method to extract valuable compounds from agricultural waste products."
+    }
+  },
+  "fabric": {
+    "ex": {
+      "织物": "The dress was made from a luxurious silk fabric imported from the finest mills in Italy.",
+      "结构": "Pervasive corruption threatens to tear apart the very fabric of democratic governance."
+    }
+  },
+  "access": {
+    "ex": {
+      "通道": "There is a narrow access road leading to the remote mountain village.",
+      "进入权": "Only authorized personnel are granted access to the secure server room.",
+      "访问": "You can access the online library database using your student ID and password."
+    }
+  },
+  "confine": {
+    "ex": {
+      "限制": "The speaker was asked to confine his remarks to the topic under discussion.",
+      "禁闭": "The dangerous criminal was confined to a maximum-security prison cell for life."
+    }
+  },
+  "confirm": {
+    "ex": {
+      "确认": "Please call the hotel to confirm your reservation at least twenty-four hours before arrival.",
+      "证实": "The DNA evidence confirmed that the suspect had been at the crime scene."
+    }
+  },
+  "conscious": {
+    "ex": {
+      "有意识的": "The patient remained fully conscious throughout the entire surgical procedure.",
+      "在意的": "Young people today are far more environmentally conscious than previous generations."
+    }
+  },
+  "consequence": {
+    "ex": {
+      "结果": "One unintended consequence of automation is the displacement of low-skilled workers.",
+      "重要性": "This is a decision of enormous consequence that will affect millions of lives."
+    }
+  },
+  "consider": {
+    "ex": {
+      "考虑": "Before making a final decision we should carefully consider all available options.",
+      "认为": "She is widely considered to be the most talented violinist of her generation."
+    }
+  },
+  "constant": {
+    "ex": {
+      "不断的": "The constant interruptions made it impossible to concentrate on writing the report.",
+      "恒定的": "The laboratory must maintain a constant temperature of exactly twenty degrees Celsius."
+    }
+  },
+  "constitute": {
+    "ex": {
+      "构成": "Women now constitute more than half of all medical students enrolled at the university.",
+      "设立": "The government constituted a special task force to investigate the matter."
+    }
+  },
+  "consume": {
+    "ex": {
+      "消耗": "The aging power plant consumes enormous quantities of coal every single day.",
+      "吞噬": "Within minutes the raging wildfire had consumed thousands of acres of forest."
+    }
+  },
+  "contain": {
+    "ex": {
+      "包含": "This multivitamin supplement contains all the essential minerals your body needs daily.",
+      "控制": "Emergency crews worked tirelessly through the night to contain the oil spill."
+    }
+  },
+  "contract": {
+    "ex": {
+      "合同": "Both parties are legally obligated to fulfill the terms specified in the contract.",
+      "收缩": "When exposed to cold temperatures metal pipes contract and can sometimes burst.",
+      "感染": "He contracted a rare tropical disease while volunteering at a medical clinic overseas."
+    }
+  },
+  "contribute": {
+    "ex": {
+      "贡献": "Each team member contributed valuable insights during the brainstorming session.",
+      "导致": "A combination of poor diet and lack of exercise contributed to his deteriorating health."
+    }
+  },
+  "convention": {
+    "ex": {
+      "大会": "Over fifteen thousand technology enthusiasts attended the annual gaming convention.",
+      "惯例": "By social convention people shake hands when meeting someone for the first time."
+    }
+  },
+  "convert": {
+    "ex": {
+      "转变": "The innovative device converts kinetic energy from footsteps into usable electricity.",
+      "改变信仰": "He converted to Buddhism after spending several years studying philosophy in Tibet."
+    }
+  },
+  "convey": {
+    "ex": {
+      "传达": "The poet words convey a profound sense of isolation and longing for human connection.",
+      "运送": "A network of underground pipelines conveys natural gas across the entire continent."
+    }
+  },
+  "correspond": {
+    "ex": {
+      "对应": "The numbers in the spreadsheet should correspond exactly to the figures in the report.",
+      "通信": "The two scholars corresponded regularly by letter for over three decades."
+    }
+  },
+  "counsel": {
+    "ex": {
+      "建议": "The king wisely sought counsel from his most experienced and trusted military advisors.",
+      "律师": "The defense counsel presented compelling new evidence that cast doubt on the prosecution case."
+    }
+  },
+  "counter": {
+    "ex": {
+      "柜台": "She placed the items on the checkout counter and waited for the cashier to ring them up.",
+      "反驳": "The senator quickly countered the accusation with a detailed account of the actual events."
+    }
+  },
+  "courtesy": {
+    "ex": {
+      "礼貌": "It is common courtesy to hold the door open for the person walking behind you.",
+      "免费的": "Guests staying at the resort enjoy courtesy shuttle service to and from the airport."
+    }
+  },
+  "craft": {
+    "ex": {
+      "手艺": "The ancient craft of pottery making has been passed down through generations in this village.",
+      "航天器": "The unmanned craft transmitted stunning photographs back to Earth from the surface of Mars.",
+      "精心制作": "The speech was carefully crafted to inspire hope and unity in a divided nation."
+    }
+  },
+  "create": {
+    "ex": {
+      "创造": "The sculptor spent over two years creating the monumental bronze statue for the city center.",
+      "引起": "The sudden announcement created considerable confusion and uncertainty among the employees."
+    }
+  },
+  "critical": {
+    "ex": {
+      "批判的": "The auditor report was sharply critical of the company financial management practices.",
+      "关键的": "The first twenty-four hours after the earthquake were absolutely critical for rescue operations."
+    }
+  },
+  "cultivate": {
+    "ex": {
+      "耕种": "Farmers on this island have cultivated the volcanic soil for over two thousand years.",
+      "培养": "The program is designed to cultivate leadership skills in young people from disadvantaged backgrounds."
+    }
+  },
+  "decline": {
+    "ex": {
+      "下降": "The population of the rural village has been in steady decline for the past three decades.",
+      "谢绝": "She politely declined the invitation citing a prior commitment that same evening.",
+      "衰退": "Historians still debate the exact causes of the Roman Empire gradual decline and fall."
+    }
+  },
+  "decorate": {
+    "ex": {
+      "装饰": "Volunteers spent the afternoon decorating the community hall for the holiday celebration.",
+      "授予勋章": "The soldier was decorated for extraordinary bravery during the rescue mission behind enemy lines."
+    }
+  },
+  "dedicate": {
+    "ex": {
+      "奉献": "The scientist dedicated her entire career to finding a cure for the devastating disease.",
+      "致力于": "He dedicated himself wholeheartedly to mastering the art of traditional Japanese calligraphy."
+    }
+  },
+  "defend": {
+    "ex": {
+      "防守": "The outnumbered troops bravely defended the strategic hilltop against repeated enemy assaults.",
+      "为…辩护": "A team of highly skilled lawyers was hired to defend the corporation against the class-action lawsuit."
+    }
+  },
+  "define": {
+    "ex": {
+      "定义": "It is surprisingly difficult to define precisely what constitutes a work of art.",
+      "界定": "The terms of the partnership agreement clearly define the responsibilities of each party."
+    }
+  },
+  "ensure": {
+    "ex": {
+      "确保": "Please double-check all the equipment to ensure that everything is working properly.",
+      "保证": "The new legislation is designed to ensure equal opportunities for all citizens regardless of background."
+    }
+  },
+  "establish": {
+    "ex": {
+      "建立": "The university was established over two hundred years ago by royal charter.",
+      "证实": "The investigation established that the fire had been started deliberately."
+    }
+  },
+  "expose": {
+    "ex": {
+      "暴露": "Prolonged exposure to direct sunlight can cause permanent damage to your skin.",
+      "揭露": "The investigative journalist exposed widespread corruption within the highest levels of government."
+    }
+  },
+  "fashion": {
+    "ex": {
+      "时尚": "The fashion industry is notorious for its rapid cycles and enormous environmental impact.",
+      "方式": "The problem can be solved in a similar fashion to the previous mathematical challenge."
+    }
+  },
+  "feature": {
+    "ex": {
+      "特征": "The most striking feature of the new smartphone is its advanced facial recognition technology.",
+      "以…为特色": "The restaurant features a carefully curated selection of locally sourced seasonal ingredients."
+    }
+  },
+  "figure": {
+    "ex": {
+      "数字": "The latest unemployment figures paint a worrying picture of the current economic situation.",
+      "人物": "She is one of the most important literary figures of the twentieth century.",
+      "计算": "Experts figure that the total cost of rebuilding will exceed two billion dollars."
+    }
+  },
+  "file": {
+    "ex": {
+      "文件": "Please save the document and attach the file to your email before sending it to the client.",
+      "归档": "All legal correspondence must be properly filed and retained for a minimum of seven years."
+    }
+  },
+  "finance": {
+    "ex": {
+      "金融": "The global finance industry underwent dramatic changes following the regulatory reforms.",
+      "资助": "The research project is financed jointly by the government and several private foundations."
+    }
+  },
+  "fit": {
+    "ex": {
+      "合适的": "Regular physical activity is essential for staying physically and mentally fit.",
+      "适合": "The job description does not seem to fit the qualifications listed on his resume.",
+      "安装": "The technician will come tomorrow morning to fit the new heating system in the building."
+    }
+  },
+  "fix": {
+    "ex": {
+      "修理": "The mechanic promised to fix the engine problem by the end of the business day.",
+      "固定": "The team will meet next Monday to fix the final details of the project timeline.",
+      "确定": "We have not yet fixed a date for the annual shareholders meeting."
+    }
+  },
+  "flat": {
+    "ex": {
+      "平坦的": "The landscape in this region is remarkably flat stretching for miles without any hills.",
+      "公寓": "They recently moved into a spacious flat overlooking the river in the city center."
+    }
+  },
+  "flexible": {
+    "ex": {
+      "灵活的": "The company offers flexible working hours that allow employees to balance work and family life.",
+      "易弯曲的": "The flexible rubber hose can be bent into any shape without cracking or breaking."
+    }
+  },
+  "flow": {
+    "ex": {
+      "流动": "The river flows gently through the valley before emptying into the vast ocean.",
+      "流畅": "The conversation between the old friends flowed naturally as if no time had passed at all."
+    }
+  },
+  "focus": {
+    "ex": {
+      "焦点": "The primary focus of the investigation should be on identifying the root cause of the accident.",
+      "集中": "You need to focus your attention entirely on the task at hand and avoid distractions."
+    }
+  },
+  "follow": {
+    "ex": {
+      "跟随": "The tour guide asked everyone to follow her closely through the narrow medieval streets.",
+      "理解": "I am sorry but I do not quite follow your reasoning behind this particular argument."
+    }
+  },
+  "force": {
+    "ex": {
+      "力量": "The sheer force of the hurricane winds destroyed entire neighborhoods along the coastline.",
+      "强迫": "No one should ever be forced to work in conditions that endanger their health or safety."
+    }
+  },
+  "form": {
+    "ex": {
+      "形式": "The medication is available in both tablet and liquid form for patients of all ages.",
+      "形成": "Over millions of years the Colorado River slowly formed the magnificent Grand Canyon."
+    }
+  },
+  "frame": {
+    "ex": {
+      "框架": "The antique mirror had an ornate golden frame that dated back to the eighteenth century.",
+      "陷害": "The innocent man was framed for a crime he did not commit and spent years in prison."
+    }
+  },
+  "function": {
+    "ex": {
+      "功能": "The primary function of the human heart is to pump oxygen-rich blood throughout the body.",
+      "运行": "The new software system will not function properly without a stable internet connection."
+    }
+  },
+  "fund": {
+    "ex": {
+      "基金": "The university established a scholarship fund to support students from low-income families.",
+      "资助": "The ambitious infrastructure project is jointly funded by the state and federal governments."
+    }
+  },
+  "gain": {
+    "ex": {
+      "获得": "Through years of dedicated practice she gained a deep mastery of classical piano performance.",
+      "增加": "The company stock price gained over fifteen percent following the positive earnings report."
+    }
+  },
+  "generate": {
+    "ex": {
+      "产生": "Wind turbines generate clean electricity without producing any harmful carbon emissions.",
+      "引起": "The controversial proposal generated intense debate among both supporters and critics."
+    }
+  },
+  "grant": {
+    "ex": {
+      "授予": "The university granted her a full scholarship covering tuition and living expenses for four years.",
+      "承认": "I grant that your argument has some merit but I still fundamentally disagree with your conclusion."
+    }
+  },
+  "grasp": {
+    "ex": {
+      "抓住": "She grasped the railing tightly as the ship began to rock violently in the storm.",
+      "理解": "Many students struggle to grasp the abstract concepts presented in advanced physics courses."
+    }
+  },
+  "ground": {
+    "ex": {
+      "地面": "The earthquake caused the ground to shake violently for nearly two full minutes.",
+      "理由": "The judge ruled that there were insufficient grounds to issue a search warrant.",
+      "基础": "The course provides a solid grounding in the fundamental principles of computer programming."
+    }
+  },
+  "grow": {
+    "ex": {
+      "生长": "The young seedlings will need plenty of sunlight and water to grow into healthy plants.",
+      "增长": "The company revenue has grown steadily at an average rate of ten percent per year.",
+      "逐渐变得": "The couple grew increasingly frustrated with the constant delays in the construction project."
+    }
+  },
+  "guide": {
+    "ex": {
+      "指南": "The comprehensive travel guide includes detailed maps and restaurant recommendations for every budget.",
+      "引导": "An experienced mentor can guide young professionals through the early stages of their careers."
+    }
+  },
+  "handle": {
+    "ex": {
+      "处理": "Experienced customer service representatives know how to handle even the most difficult complaints.",
+      "把手": "The antique drawer had delicate brass handles that had been polished to a brilliant shine."
+    }
+  },
+  "hard": {
+    "ex": {
+      "硬的": "The frozen ground was too hard to dig through without using heavy construction equipment.",
+      "困难的": "It is hard to predict with any certainty what the economy will look like five years from now.",
+      "努力地": "She worked hard for over a decade to build the company from a small startup into a global brand."
+    }
+  },
+  "head": {
+    "ex": {
+      "头": "He accidentally bumped his head on the low doorway while entering the old cottage.",
+      "领导": "She was appointed to head the newly created department of sustainability and environmental affairs.",
+      "朝向": "The ship altered course and began to head east toward the safety of the harbor."
+    }
+  },
+  "hold": {
+    "ex": {
+      "握住": "She held her daughter hand tightly as they crossed the busy intersection.",
+      "容纳": "The concert arena can hold up to twenty thousand enthusiastic spectators.",
+      "认为": "Many people hold the mistaken belief that lightning never strikes the same place twice."
+    }
+  },
+  "host": {
+    "ex": {
+      "主人": "The host of the dinner party greeted each guest warmly at the front door.",
+      "主办": "Tokyo will host the Summer Olympic Games for the second time in modern history.",
+      "大量": "The human body hosts trillions of microorganisms that play essential roles in digestion and immunity."
+    }
+  },
+  "immediate": {
+    "ex": {
+      "立即的": "The patient condition was critical and required immediate medical attention from the surgical team.",
+      "直接的": "The immediate cause of the explosion was a gas leak in the basement of the building."
+    }
+  },
+  "impose": {
+    "ex": {
+      "强制": "The government imposed strict lockdown measures to contain the spread of the virus.",
+      "强加于": "She did not want to impose her personal religious beliefs on her colleagues at work."
+    }
+  },
+  "inform": {
+    "ex": {
+      "通知": "The company will inform all successful candidates of their interview results by email.",
+      "影响": "His political philosophy was deeply informed by his experiences growing up in a working-class neighborhood."
+    }
+  },
+  "institution": {
+    "ex": {
+      "机构": "The university is one of the oldest and most respected academic institutions in the country.",
+      "制度": "Marriage is a fundamental social institution that has existed in various forms across all cultures."
+    }
+  },
+  "instrument": {
+    "ex": {
+      "工具": "Precision surgical instruments must be sterilized thoroughly before every medical procedure.",
+      "乐器": "She began learning to play a musical instrument at the age of five and never looked back."
+    }
+  },
+  "interest": {
+    "ex": {
+      "兴趣": "He developed a keen interest in astronomy after watching a documentary about space exploration.",
+      "利息": "The central bank raised interest rates to combat rising inflation in the economy.",
+      "利益": "The decision was made in the best interest of all the stakeholders involved in the project."
+    }
+  },
+  "introduce": {
+    "ex": {
+      "介绍": "Please allow me to introduce you to the distinguished keynote speaker for this evening.",
+      "引进": "The company plans to introduce three innovative new products to the market by the end of this year."
+    }
+  },
+  "issue": {
+    "ex": {
+      "问题": "The committee discussed a wide range of pressing issues affecting the local community.",
+      "发布": "The government issued a formal statement condemning the recent acts of violence against civilians."
+    }
+  },
+  "just": {
+    "ex": {
+      "仅仅": "The journey takes just under three hours if you take the express train.",
+      "公正的": "The judge was widely respected for delivering fair and just rulings in every case.",
+      "刚刚": "I have just received confirmation that my flight has been delayed by another two hours."
+    }
+  },
+  "justice": {
+    "ex": {
+      "正义": "The civil rights activist dedicated her entire life to the pursuit of social justice and equality.",
+      "法官": "The justice of the Supreme Court delivered the majority opinion in the landmark constitutional case."
+    }
+  },
+  "labor": {
+    "ex": {
+      "劳动": "The construction project required months of intensive physical labor under challenging conditions.",
+      "劳工": "The factory owners were criticized for exploiting cheap labor in developing countries."
+    }
+  },
+  "aggressive": {
+    "ex": {
+      "侵略的": "The countries aggressive military actions drew strong condemnation from the UN.",
+      "有进取心的": "The startup hired an aggressive sales team determined to dominate the market."
+    }
+  },
+  "confidence": {
+    "ex": {
+      "信心": "Regular practice builds confidence and reduces nervousness before presentations.",
+      "秘密": "She shared the sensitive information with him in the strictest confidence."
+    }
+  },
+  "degree": {
+    "ex": {
+      "程度": "The success depends to a large degree on the cooperation of all team members.",
+      "学位": "He earned a doctoral degree in neuroscience after seven years of intensive study.",
+      "度": "The temperature rose by nearly ten degrees within just a few hours."
+    }
+  },
+  "deliberate": {
+    "ex": {
+      "故意的": "The destruction of evidence was a deliberate attempt to obstruct justice.",
+      "仔细考虑": "The jury deliberated for three full days before reaching a unanimous verdict."
+    }
+  },
+  "delicate": {
+    "ex": {
+      "精致的": "The museum displayed exquisite porcelain vases from the Ming dynasty.",
+      "微妙的": "The diplomatic negotiations entered a highly delicate phase requiring extreme tact."
+    }
+  },
+  "deliver": {
+    "ex": {
+      "递送": "The courier guarantees to deliver all packages within forty-eight hours.",
+      "发表": "The speaker delivered an inspiring address that moved many to tears.",
+      "接生": "The midwife has safely delivered over a thousand babies during her career."
+    }
+  },
+  "demonstrate": {
+    "ex": {
+      "证明": "The results clearly demonstrate the effectiveness of the new treatment.",
+      "示威": "Thousands gathered to demonstrate peacefully against the proposed legislation."
+    }
+  },
+  "deny": {
+    "ex": {
+      "否认": "The defendant continued to deny any involvement despite mounting evidence.",
+      "拒绝给予": "The authorities denied his visa application citing incomplete documentation."
+    }
+  },
+  "depart": {
+    "ex": {
+      "离开": "The flight will depart from Terminal Three at six o clock tomorrow morning.",
+      "背离": "The new policy departs significantly from the traditional approach."
+    }
+  },
+  "deposit": {
+    "ex": {
+      "存放": "Please deposit your valuables in the hotel safe before heading to the beach.",
+      "押金": "Landlords require a security deposit equivalent to one month rent."
+    }
+  },
+  "depress": {
+    "ex": {
+      "使沮丧": "The constant negative news seemed to depress the morale of the entire office.",
+      "压低": "The oil oversupply depressed global prices to their lowest level in a decade."
+    }
+  },
+  "derive": {
+    "ex": {
+      "获得": "She derives immense satisfaction from volunteering at the animal shelter.",
+      "源于": "The word astronomy derives from ancient Greek roots meaning star and law."
+    }
+  },
+  "desperate": {
+    "ex": {
+      "绝望的": "The refugees were in desperate need of food water and medical supplies.",
+      "极度的": "The company took desperate measures including mass layoffs to avoid bankruptcy."
+    }
+  },
+  "determine": {
+    "ex": {
+      "决定": "Genetic factors help determine an individual susceptibility to certain diseases.",
+      "查明": "Forensic experts work to determine the exact cause of the fatal crash."
+    }
+  },
+  "discipline": {
+    "ex": {
+      "纪律": "Strict military discipline requires soldiers to follow orders without hesitation.",
+      "学科": "Linguistics is a fascinating academic discipline studying human language.",
+      "训练": "Parents must learn how to discipline children effectively without harsh punishment."
+    }
+  },
+  "discount": {
+    "ex": {
+      "折扣": "Students can receive a twenty percent discount with a valid ID card.",
+      "不理会": "Detectives discounted the witness statement after discovering inconsistencies."
+    }
+  },
+  "discriminate": {
+    "ex": {
+      "歧视": "The law prohibits employers from discriminating based on age or gender.",
+      "区分": "A wine connoisseur can discriminate between hundreds of grape varieties by taste."
+    }
+  },
+  "disorder": {
+    "ex": {
+      "混乱": "The power outage threw the entire office into complete disorder for hours.",
+      "失调": "The patient was diagnosed with a rare genetic disorder affecting the nervous system."
+    }
+  },
+  "significance": {
+    "ex": {
+      "重要性": "The discovery held enormous significance for the field of molecular biology."
+    }
+  },
+  "widespread": {
+    "ex": {
+      "广泛的": "The internet has led to the widespread availability of information worldwide."
+    }
+  }
+}
